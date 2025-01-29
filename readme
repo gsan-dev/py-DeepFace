@@ -1,0 +1,48 @@
+# 🚀 DeepFace Recognition System  
+![DeepFace](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python) 
+![DeepFace](https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django) 
+![DeepFace](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql)  
+![DeepFace Logo](https://your-image-link.com/logo.png)  
+
+> **An advanced facial recognition system using DeepFace & Django** 🤖  
+
+---
+
+## 📌 **Table of Contents**  
+- [🔍 About the Project](#-about-the-project)  
+- [⚙️ Features](#️-features)  
+- [📸 Demo](#-demo)  
+- [🚀 Installation](#-installation)  
+- [📖 Usage](#-usage)  
+- [🛠️ Tech Stack](#️-tech-stack)  
+- [📬 Contact](#-contact)  
+
+---
+
+## 🔍 **About the Project**  
+DeepFace Recognition System is an AI-powered facial recognition tool that integrates **DeepFace** for deep learning-based face verification, along with a **Django + PostgreSQL** backend for user management and authentication.  
+
+---
+
+## ⚙️ **Features**  
+✅ Real-time Face Recognition 🎭  
+✅ User Registration & Authentication 🔐  
+✅ Face Matching & Verification 🧑‍🤝‍🧑  
+✅ REST API Support 🌍  
+✅ PostgreSQL Database Integration 📊  
+
+---
+
+## 📸 **Demo**  
+🚀 **Check out the live demo!**  
+🔗 [Live Demo](https://your-demo-link.com)  
+
+![DeepFace Demo](https://your-demo-link.com/demo.gif)  
+
+---
+
+## 🚀 **Installation**  
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/gsan-dev/py-DeepFace.git
+cd py-DeepFace
